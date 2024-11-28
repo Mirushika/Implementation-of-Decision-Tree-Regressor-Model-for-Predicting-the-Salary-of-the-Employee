@@ -50,7 +50,7 @@ dt.predict([[5,6]])
 
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
-
+```
 
 Position 	Level 	Salary
 0 	Business Analyst 	1 	45000
@@ -84,7 +84,7 @@ Position 	Level 	Salary
 
 462500000.0
 0.48611111111111116
-
+```
 
 C:\Users\mirus\anaconda3\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but DecisionTreeRegressor was fitted with feature names
   warnings.warn(
